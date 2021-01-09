@@ -5,6 +5,11 @@
 &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/Khoa_NguyenTuan)
 &nbsp;
+  
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
 <!--
@@ -22,4 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Get badge from https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-
+
+List examples:
+https://awesomegithubprofile.tech/
 -->
