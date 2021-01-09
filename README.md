@@ -9,6 +9,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build CV template in Latex](https://khoa-nt.github.io/post/build_latex_cv_template/)
+- [Latex note](https://khoa-nt.github.io/post/latex_note/)
+- [Hugo note](https://khoa-nt.github.io/post/hugo_note/)
+- [Adversarial Robustness as a Prior for Better Transfer Learning](https://khoa-nt.github.io/reviewpaper/adversarial-robustness-as-a-prior-for-better-transfer-learning/)
+- [Cupper Shortcodes](https://khoa-nt.github.io/post/cupper-shortcodes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
