@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 Get badge from https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-
 
+List icon: https://gist.github.com/rxaviers/7360908
+
 List examples:
 https://awesomegithubprofile.tech/
 
