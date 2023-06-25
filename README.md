@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔬 M research topic: NeRF, Diffusion, Transformer & Laparoscopy
+- 🔬 My research topic: NeRF, Diffusion, Transformer & Laparoscopy
 - 🐈 My [portfolio](https://www.notion.so/ntkhoa/Portfolio-Tracker-5468e1bcd80942c7a538062288485e6c)
 
 - 📫 How to reach me: &nbsp; [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-nt/)
