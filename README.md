@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔬 My research topic: Neural Radiance Fields (NeRFs), 3D Gaussian Splatting, Diffusion models, Implicit neural representations (INRs), Deep weight spaces, and 3D reconstruction in Laparoscopic video.
+- 🔬 My research topics: Neural Radiance Fields (NeRFs), 3D Gaussian Splatting, Diffusion models, Implicit neural representations (INRs), Deep weight spaces, and 3D reconstruction in Laparoscopic video.
+- 🎓 My [Google scholar](https://scholar.google.com/citations?user=7XpRM4cAAAAJ&hl=en)
 - 🐈 My [portfolio](https://www.notion.so/ntkhoa/Portfolio-Tracker-5468e1bcd80942c7a538062288485e6c)
 
 - 📫 How to reach me: &nbsp; [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-nt/)
